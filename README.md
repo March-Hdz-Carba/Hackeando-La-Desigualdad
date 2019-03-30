@@ -58,3 +58,5 @@ En Europa las cifras también son alarmantes Italia, Alemania y el Reino Unido t
 
 ### [Prototipado Alta Fidelidad](https://www.figma.com/file/6rqQViPNKfaEwHyMv73sav/Travelers?node-id=0%3A1)
 
+### [Encuesta](https://forms.gle/GyAkeMA8Aw4DUwh87)
+
