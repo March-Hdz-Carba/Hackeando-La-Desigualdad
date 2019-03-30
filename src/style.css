@@ -1,45 +1,62 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
-* {
-    font-family: 'Pacifico', cursive;
-    color: #FFFEFE;
-}
-
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+* {
+   font-family: 'Roboto Mono', monospace;
+   color: #0500E4;
+}
 body {
-    margin: 0;
-    background: linear-gradient(201.19deg, #7A84B9 0%, #99A9FF 0.01%, #FFA7DC 49.69%, #894B70 100%);
-    background-size: cover;
-    background-attachment: fixed;
-    display: flex;
+   margin: 0;
+   background-color: #F9F8F6;
+   color: #0F58A2;
+   background-size: cover;
+   background-attachment: fixed;
 }
-
+.content {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
 h1 {
-    text-align: center;
-    font-size: 80px;
+   font-family: 'Pacifico', cursive;
+   color: #0500E4;
+   font-size: 5rem;
+   text-align: center;
+   width: auto;
 }
-
 input {
-    display: flex;
-    height: 1cm;
-    font-family: 'Roboto Mono', monospace;
-    color: black;
-    flex-direction: column;
+   padding: 0.8rem;
+   color: black;
 }
-
-.inputStart {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
+button {
+   color: #2a385b;
 }
-
+.mail {
+   margin: 0.5rem;
+}
 .camera {
-    width: 3%;
+   width: 3%;
 }
-
+section {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+.sign-in {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
 .sign-up {
-    display: none;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   display: none;
+}
+.boxPost {
+   color: black;
 }
 
-.boxPost {
-    color: black;
-}

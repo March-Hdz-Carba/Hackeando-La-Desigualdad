@@ -1,58 +1,60 @@
-# WoTravel
+# Step'n safe
 
-## Introducción a las Redes Sociales.
+  
 
-Las redes sociales surgen con la Web 2.0 la cual a diferencia de la Web 1.0, permite a los usuarios interactuar y colaborar entre sí. De esta manera surge la idea de las redes sociales en donde cada usuario "tiene una pagina" donde puede publicar contenido y se comunica con otros usuarios.
+## Buscamos que tus pasos sean seguros.
 
-## Principales usuarios del Producto y la Problematica a resolver
+  
 
-**WoTravel** esta pensado para mujeres entre los 23 y 35 años, que gustan de viajar y que quieren seguridad dentro de sus viajes.
+Buscamos generar una red de mujeres en la que podamos conectar distintos países y ciudades para ayudar a las mujeres a obtener recomendaciones que les facilite llevar su día a día de manera más segura, evitando posibles zonas inseguras o conflictivas. La red busca alimentarse de las recomendaciones y experiencias compartidas por las usuarias.
+
+  
+
+## Principales usuarios del Producto y la Problemática a resolver.
+
+  
+
+**Step'n safe** esta pensado para mujeres de cualquier rango de edad con acceso a Internet, que quieren sentirse seguras en su propia ciudad o en cualquier otra.
+
+  
 
 **¿Pero porque hablar de seguridad?,** En México segun las ultimas cifras en 2018, la Organización de las Naciones Unidas (ONU), mediante ONU Mujeres, puso de nueva cuenta la alerta:
 
-*“En México, al menos 6 de cada 10 mujeres mexicanas ha enfrentado un incidente de violencia. El 41.3% de las mujeres ha sido víctima de violencia sexual y, en su forma más extrema, nueve mujeres son asesinadas al día“*, de acuerdo con datos estadísticos de distintos organismos. Y esta informacion solo basandonos en las cifras arrojadas en México.
+  
 
-**¿Y las mujeres viajan solas?** Según la Confederación Española de Agencia de Viajes (CEAV), el 65% de los viajeros que viajan en compañía "de sí mismas" son mujeres. Una cifra que resulta muy llamativa, ya que superan con creces a los hombres, que por lo visto, se siente más rezagados a emprender el camino en soledad. [Otra encuesta](https://news.booking.com/do-not-disturb-more-than-half-of-american-women-travelers-are-going-solo) de la agencia de viajes 'Booking' halló que el 72% de las mujeres estadounidenses lo prefieren. Una tónica que también se repite en el Reino Unido: el 55% de las búsquedas para viajes individuales son féminas de 25 a 34 años que viven en Londres, según la empresa de investigación [Hitwise](https://www.elconfidencial.com/alma-corazon-vida/2019-02-01/mujeres-viajes-solas-hombres-mundo-razones_1784026/).
-
-De acuerdo con la revista [Harvard Business Review](https://www.excelsior.com.mx/nacional/mas-mujeres-se-lanzan-a-la-aventura-de-viajar-solas/1231181), indica que el número de mujeres que viajan solas ha aumentado en más de 230 por ciento en la última década.
-
-Para que la situación haya cambiado en este rubro turístico hay varios factores, como la independencia económica, el aumento en los divorcios, además del descenso en el número de hijos o la inexistencia de ellos, hechos que han provocado que la mujer tenga más tiempo libre sin ninguna responsabilidad que la ate.
-
-**Con toda esta informacion ¿Cual es el problema?** 
+*“En México, al menos 6 de cada 10 mujeres mexicanas ha enfrentado un incidente de violencia. El 41.3% de las mujeres ha sido víctima de violencia sexual y, en su forma más extrema, nueve mujeres son asesinadas al día“*, de acuerdo con datos estadísticos de distintos organismos. Y esta información solo basándonos en las cifras arrojadas en México.
+[Brechas en la medición de feminicidios en México](https://www.iis.unam.mx/blog/brechas-en-la-medicion-de-feminicidios-en-mexico/)
+[La ONU pide a México tipificar el feminicidio en todo el país](https://elpais.com/internacional/2018/07/23/mexico/1532369836_872417.html)
 
 
+  
 
-# Creando una Red Social
+**¿Y que pasa en el resto del Mundo?** 
+En [América Latina y el Caribe](https://www.eleconomista.com.mx/politica/14-de-los-25-paises-con-mas-feminicidios-se-ubican-en-America-Latina--20181120-0048.html) se ubican 14 de los 25 países del mundo en donde más se cometen feminicidios (se monitorean cifras de 221 países), además, sólo en 2 de cada 100 casos los agresores son enjuiciados, de acuerdo con un informe de la Cepal (Comisión Económica para América Latina y el Caribe). La evidencia estadística muestra que la violencia feminicida continúa creciendo pese a los esfuerzos públicos de programas con perspectiva de género.
 
-## Preámbulo
+Los dos primeros países con la tasa más alta de feminicidios son latinoamericanos, El Salvador y Honduras tienen tasas calificadas como bastante altas (de 14 y 11 asesinadas por cada 100,000 mujeres).
 
-Instagram, Snapchat, Twitter, Facebook, Twitch, Linkedin, etc. Las redes
-sociales han invadido nuestras vidas. Las amamos y/u odiamos, y muchos no podemos vivir sin ellas.
+En Europa las cifras también son alarmantes Italia, Alemania y el Reino Unido tienen el mayor número de casos.
 
-Hay redes sociales de todo tipo y para todo tipo de intereses. Por ejemplo,
-en una ronda de financiamiento con inversionistas, se presentó una red social
-para químicos en la que los usuarios podían publicar artículos sobre sus
-investigaciones, comentar en los artículos de sus colegas, y filtrar artículos
-de acuerdo a determinadas etiquetas o su popularidad, lo más reciente, o lo
-más comentado.
+![Feminicidios en Europa](https://planet.localfocus.nl/tile.png?z=4&x=8&y=5&scale=1&lang=es&style=default&label-switch=on)
 
-## Introducción
+## En Step'safe podrás encontrar
 
-Una emprendedora nos ha encargado crear una red social. No nos da mucho detalle
-sobre qué tipo de red social quiere, sólo nos dice que creemos la mejor que
-podamos, y que luego la convenzamos de lanzarla al mercado. Nos da ciertos temas
-en los que le gustaría invertir:
+  
 
-* Alimentación
-* Feminismo
-* Educación
-* Salud
-* Energías Renovables
-* o la idea que mejor les parezca
+* Zona segura: generar un mapa con los espacios que son inseguros, focos rojos para que transiten mujeres
 
-## Objetivos de Aprendizaje
+  
 
-El objetivo principal de aprendizaje de este proyecto es construir una
-[Single-page Application (SPA)](https://es.wikipedia.org/wiki/Single-page_application)
-[_responsive_](https://github.com/Laboratoria/curricula-js/tree/master/topics/css/02-responsive)
- (con más de una vista / página) en la que podamos **leer y escribir datos.**
+* Contactos: en esta parte podrás agregar a otras usuarias de la red, de tu zona o de alguna ciudad en específico a donde vayas a viajar y donde quieras establecer un contacto para obtener información relevante acerca de la ciudad.
+
+  
+
+* Directorio de contactos: pues agregar y hacer contacto con usuarias de otras ciudades para hacer tu viaje más seguro, y obtener información adicional que necesites: esta información puede tan diversa como preguntar sobre una zona en especifico, transporte y que tan seguro es, algunos tips de seguridad, en general información que pudieras necesitar para tu viaje. Establecer un contacto con una usuaria de otra ciudad a la que vas a viajar te brinda la seguridad de saber que no estás sola y que puedes tener un contacto en caso de alguna emergencia
+
+  
+
+* Timeline: en este apartado tenemos los comentarios posteados por las usuarias. Los comentarios incluirán la ciudad y país al que se refieren, de esa manera cuando una usuaria está interesada en obtener información a considerar de la ciudad que está buscando podrá hacer un filtrado por ciudad.
+
+### [Prototipado Alta Fidelidad](https://www.figma.com/file/6rqQViPNKfaEwHyMv73sav/Travelers?node-id=0%3A1)
+
